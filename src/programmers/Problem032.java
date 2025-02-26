@@ -1,5 +1,7 @@
 package programmers;
 
+import java.util.Stack;
+
 public class Problem032 {
     //https://school.programmers.co.kr/learn/courses/30/lessons/12973
     //2017 팁스타운
